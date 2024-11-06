@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[3254]长度为 K 的子数组的能量值 I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[3254]长度为 K 的子数组的能量值 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3254" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[3254]长度为 K 的子数组的能量值 I.py" />
+              <option name="titleSlug" value="find-the-power-of-k-size-subarrays-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
